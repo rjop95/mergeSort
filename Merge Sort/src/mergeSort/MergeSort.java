@@ -79,6 +79,8 @@ public class MergeSort {
     } 
 
     public static void main(String args[])
+    System.out.print(" Hola ");
+    
     {
         int arr[] = { 9, 3, 1, 5, 13, 12 };
         
