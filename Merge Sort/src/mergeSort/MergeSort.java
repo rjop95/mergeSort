@@ -72,6 +72,7 @@ public class MergeSort {
  
     void display(int arr[])                 //display the array
     {  
+    	System.out.println("Hola ");
         for (int i=0; i<arr.length; ++i) 
         {
             System.out.print(arr[i]+" ");
@@ -79,7 +80,7 @@ public class MergeSort {
     } 
 
     public static void main(String args[])
-    System.out.print(" Hola ");
+    
     
     {
         int arr[] = { 9, 3, 1, 5, 13, 12 };
